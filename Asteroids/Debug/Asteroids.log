@@ -1,0 +1,52 @@
+﻿  Asteroids.cpp
+Z:\jlawf\Documents\GitHub repos\CodeBackups\Asteroids\Asteroids.cpp(59,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+Z:\jlawf\Documents\GitHub repos\CodeBackups\Asteroids\Asteroids.cpp(131,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Z:\jlawf\Documents\GitHub repos\CodeBackups\Asteroids\Asteroids.cpp(159,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Z:\jlawf\Documents\GitHub repos\CodeBackups\Asteroids\Asteroids.cpp(159,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Z:\jlawf\Documents\GitHub repos\CodeBackups\Asteroids\Asteroids.cpp(164,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Z:\jlawf\Documents\GitHub repos\CodeBackups\Asteroids\Asteroids.cpp(170,50): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+Z:\jlawf\Documents\GitHub repos\CodeBackups\Asteroids\Asteroids.cpp(171,51): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+Z:\jlawf\Documents\GitHub repos\CodeBackups\Asteroids\Asteroids.cpp(310,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Z:\jlawf\Documents\GitHub repos\CodeBackups\Asteroids\Asteroids.cpp(310,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Z:\jlawf\Documents\GitHub repos\CodeBackups\Asteroids\Asteroids.cpp(313,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Z:\jlawf\Documents\GitHub repos\CodeBackups\Asteroids\Asteroids.cpp(313,36): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Z:\jlawf\Documents\GitHub repos\CodeBackups\Asteroids\Asteroids.cpp(330,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+Z:\jlawf\Documents\GitHub repos\CodeBackups\Asteroids\Asteroids.cpp(331,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+Z:\jlawf\Documents\GitHub repos\CodeBackups\Asteroids\Asteroids.cpp(336,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+Z:\jlawf\Documents\GitHub repos\CodeBackups\Asteroids\Asteroids.cpp(337,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+Z:\jlawf\Documents\GitHub repos\CodeBackups\Asteroids\Asteroids.cpp(344,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+Z:\jlawf\Documents\GitHub repos\CodeBackups\Asteroids\Asteroids.cpp(345,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+Z:\jlawf\Documents\GitHub repos\CodeBackups\Asteroids\Asteroids.cpp(350,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+Z:\jlawf\Documents\GitHub repos\CodeBackups\Asteroids\Asteroids.cpp(351,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+Z:\jlawf\Documents\GitHub repos\CodeBackups\Asteroids\Asteroids.cpp(356,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+Z:\jlawf\Documents\GitHub repos\CodeBackups\Asteroids\Asteroids.cpp(357,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+Z:\jlawf\Documents\GitHub repos\CodeBackups\Asteroids\Asteroids.cpp(364,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+Z:\jlawf\Documents\GitHub repos\CodeBackups\Asteroids\Asteroids.cpp(365,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+Z:\jlawf\Documents\GitHub repos\CodeBackups\Asteroids\Asteroids.cpp(370,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+Z:\jlawf\Documents\GitHub repos\CodeBackups\Asteroids\Asteroids.cpp(371,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+Z:\jlawf\Documents\GitHub repos\CodeBackups\Asteroids\Asteroids.cpp(376,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+Z:\jlawf\Documents\GitHub repos\CodeBackups\Asteroids\Asteroids.cpp(377,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+Z:\jlawf\Documents\GitHub repos\CodeBackups\Asteroids\Asteroids.cpp(382,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+Z:\jlawf\Documents\GitHub repos\CodeBackups\Asteroids\Asteroids.cpp(383,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\utility(186,16): warning C4244: 'initializing': conversion from '_Ty' to '_Ty1', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Ty1=float
+          ]
+Z:\jlawf\Documents\GitHub repos\CodeBackups\Asteroids\Asteroids.cpp(52): message : see reference to function template instantiation 'std::pair<float,float>::pair<double,float,0>(_Other1 &&,_Other2 &&) noexcept' being compiled
+          with
+          [
+              _Other1=double,
+              _Other2=float
+          ]
+Z:\jlawf\Documents\GitHub repos\CodeBackups\Asteroids\Asteroids.cpp(47): message : see reference to function template instantiation 'std::pair<float,float>::pair<double,float,0>(_Other1 &&,_Other2 &&) noexcept' being compiled
+          with
+          [
+              _Other1=double,
+              _Other2=float
+          ]
+  Asteroids.vcxproj -> Z:\jlawf\Documents\GitHub repos\CodeBackups\Asteroids\Debug\Asteroids.exe
